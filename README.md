@@ -7,6 +7,9 @@
 ##### Current Full Stack Digital House course 🧠
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souz-dev)](https://github.com/souz-dev/github-readme-stats)
+
+
 
 <!--
 **souz-dev/souz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
