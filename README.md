@@ -1,6 +1,8 @@
-### Hi dear 👋, I'm Hiago Souza
+### Hi dear I'm, I'm Hiago Souza
 
-####  Student Web Developer 💻
+####  Web Developer 👨🏽‍💻 </> 🖥
+
+### I'm a Student 🧙🏿‍♂️ ☕️
 
 ##### Current Full Stack Digital House course 🧠
 
