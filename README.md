@@ -7,7 +7,7 @@
 ##### Current Full Stack Digital House course 🧠
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Hiago%20Souza-#0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiago-henrique-souza-aguiar-12b65a1bb/)](https://www.linkedin.com/in/hiago-henrique-souza-aguiar-12b65a1bb//) 
+[![Linkedin Badge](https://img.shields.io/badge/-Hiago%20Souza-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiago-henrique-souza-aguiar-12b65a1bb/)](https://www.linkedin.com/in/hiago-henrique-souza-aguiar-12b65a1bb//) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souz-dev)](https://github.com/souz-dev/github-readme-stats)
 
