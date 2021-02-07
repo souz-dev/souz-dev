@@ -7,7 +7,7 @@
 ##### Current Full Stack Digital House course 🧠
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Hiago%20Souza-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiago-henrique-souza-aguiar-12b65a1bb/)](https://www.linkedin.com/in/hiago-henrique-souza-aguiar-12b65a1bb//) 
+[![Linkedin Badge](https://img.shields.io/badge/-Hiago%20Souza-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiago-henrique-souza-aguiar-12b65a1bb/)](https://www.linkedin.com/in/hiago-henrique-souza-aguiar-12b65a1bb//)  [![Gmail Badge](https://img.shields.io/badge/-souz.developer@gmail.com-e30e23?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souz.developer@gmail.com)](mailto:souz.developer@gmail.com)
 
 
 ```javascript
