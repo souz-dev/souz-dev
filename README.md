@@ -2,7 +2,7 @@
 
 ####  Student Web Developer 💻
 
-#### Curso atual Full Stack Diagital House  🧠  
+##### Current Full Stack Digital House course 🧠
 
 
 
