@@ -1,8 +1,8 @@
 ### Hi dear 🤘🏽, I'm Hiago Souza
 
-####  Full Stack Developer 👨🏽‍💻 </> 🖥
+####  Front-end Developer 👨🏽‍💻 </> 🖥
 
-### I'm a Student 🧙🏿‍♂️ ☕️
+### I'm developer at code7 🧙🏿‍♂️ ☕️
 
 
 
