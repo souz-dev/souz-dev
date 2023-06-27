@@ -1,5 +1,5 @@
 ### Hi dear 🤘🏽, I'm Hiago Souza.  I'm 23 years old, I've been working as a software developer for 2 years.
-I currently work as a frontend developer focused on software architecture, at [Link text Here]([https://link-url-here.org](https://code7.com/))
+I currently work as a frontend developer focused on software architecture, at [Code7](https://code7.com/)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Hiago%20Souza-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiago-henrique-souza-aguiar-12b65a1bb/)](https://www.linkedin.com/in/hiago-henrique-souza-aguiar-12b65a1bb//) &nbsp;&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/-souz.developer@gmail.com-e30e23?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souz.developer@gmail.com)](mailto:souz.developer@gmail.com)
@@ -8,13 +8,6 @@ I currently work as a frontend developer focused on software architecture, at [L
 ```javascript
 console.log('Hello World');
 ```
-
-### Sobre mim
-
-- :earth_americas: Livramento - BA
-- :man_technologist: Bora codar!?
-- :dart: Foco e disciplina
-- :coffee: Vai um  cafézin
 
 
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
