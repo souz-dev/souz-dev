@@ -1,6 +1,8 @@
 ### Hi dear 🤘🏽, I'm Hiago Souza.  I'm 23 years old, I've been working as a software developer for 2 years.
-I currently work as a frontend developer focused on software architecture, at [Code7](https://code7.com/)
-
+#### I currently work as a frontend developer focused on software architecture, at [Code7](https://code7.com/)
+#### I'm currently improving my technical skills, studyng Typescript, Next,  tests and software architecture fundamentals I've also worked with backend development. I have already developed projects in Node.js
+In my spare time, 
+I like to play and track
 
 [![Linkedin Badge](https://img.shields.io/badge/-Hiago%20Souza-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiago-henrique-souza-aguiar-12b65a1bb/)](https://www.linkedin.com/in/hiago-henrique-souza-aguiar-12b65a1bb//) &nbsp;&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/-souz.developer@gmail.com-e30e23?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souz.developer@gmail.com)](mailto:souz.developer@gmail.com)
 
