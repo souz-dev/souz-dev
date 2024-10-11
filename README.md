@@ -1,5 +1,5 @@
-### Hi dear 🤘🏽, I'm Hiago Souza.  I'm 23 years old, I've been working as a software developer for 2 years.
-#### I currently work as a frontend developer focused on software architecture, at [Code7](https://code7.com/)
+### Hi dear 🤘🏽, I'm Hiago Souza.  I'm 24 years old, I've been working as a software developer for 3 years.
+#### I currently work as a frontend developer focused on software architecture, at [Ligo](https://ligo.cloud/)
 #### I'm currently improving my technical skills, studyng Typescript, Next,  tests and software architecture fundamentals I've also worked with backend development. I have already developed projects in Node.js
 In my spare time, 
 I like to play and track
