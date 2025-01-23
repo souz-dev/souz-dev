@@ -6,7 +6,8 @@ const developer = {
     location: "Bahia, Brazil",
     email: "souz.developer@gmail.com",
     phone: "+5577981312740",
-    linkedIn: "https://www.linkedin.com/in/souz-dev/"
+    linkedIn: "https://www.linkedin.com/in/souz-dev/",
+    experience_time: "4 years"
   },
   work: {
     company: "Ligo",
