@@ -22,9 +22,9 @@ const developer = {
   hardskills: {
     languages: ["HTML", "CSS", "Javascript","TypeScript", "SQL", "Go"],
     frameworks: ["VueJs", "Tailwind.css", "Shadcn", "NodeJs", "Nextjs", "Nuxtjs", "Nestjs"],
-    tools: ["Docker", "Prometheus", "aws", "Redis"],
+    tools: ["Docker", "Prometheus", "aws", "Redis", "rabbitMq"],
     SGBD: ["SQLServer, MongoDB"],
-    studyingAndImproving: ["Next", "Node", "Go", "TailwindCss", "postgresql", "AWS", "Observability"]
+    studyingAndImproving: ["Next", "Node", "Go", "TailwindCss", "postgresql", "AWS", "Observability", "Microsservices", "DDD"]
   }
 };
 
