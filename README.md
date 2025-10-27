@@ -13,7 +13,11 @@ const developer = {
     company: "Ligo",
     companyUrl: "https://ligo.cloud/",
     role: "FullStack",
-    stack: ["Node", "React", "AWS", "MongoDb", "Tailwind.css", "Shadcn", "Docker", "Redis", "SQS", "PostgreSQL", "RabbitMq", "DDD"],
+    stack: [
+      "Node", "React", "AWS", "MongoDb", "Tailwind.css", 
+      "Shadcn", "Docker", "Redis", "SQS", "PostgreSQL", 
+      "RabbitMq", "DDD"
+    ],
     responsibility: "Lead developer for multiple products, making architectural and feature decisions, maintaining and fixing bugs."
   },
   curiosities: {
