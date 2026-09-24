@@ -7,7 +7,7 @@ const developer = {
     email: "souz.developer@gmail.com",
     phone: "+5577981312740",
     linkedIn: "https://www.linkedin.com/in/souz-dev/",
-    experience_time: "4 years"
+    experience_time: "5 years"
   },
   work: {
     company: "Ligo",
@@ -16,7 +16,7 @@ const developer = {
     stack: [
       "Node", "React", "AWS", "MongoDb", "Tailwind.css", 
       "Shadcn", "Docker", "Redis", "SQS", "PostgreSQL", 
-      "RabbitMq", "DDD"
+      "RabbitMq", "DDD", "Go", "DDD", "Observability", "Microsservices",
     ],
     responsibility: "Lead developer for multiple products, making architectural and feature decisions, maintaining and fixing bugs."
   },
